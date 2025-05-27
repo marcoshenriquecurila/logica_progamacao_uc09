@@ -1,5 +1,5 @@
 Tarefa Professor: conrado  data: 27/05/25
-Atidade 01
+Atid
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 mova a garrra para a lampada a ser trocada
@@ -12,3 +12,5 @@ feche a garra
 movaa garra para o bocal
 gire 180 sentido anti horario
 abra a garra
+
+Atividade Finalizada
