@@ -1,0 +1,14 @@
+Tarefa Professor: conrado  data: 27/05/25
+Atidade 01
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+mova a garrra para a lampada a ser trocada
+feche a garra
+gire garra 180 sentido horario
+mova a garra para a mesa
+abra a garra
+mova a garra para lampada nova
+feche a garra
+movaa garra para o bocal
+gire 180 sentido anti horario
+abra a garra
