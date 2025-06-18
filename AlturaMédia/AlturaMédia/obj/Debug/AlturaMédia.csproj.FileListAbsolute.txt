@@ -1,0 +1,10 @@
+C:\Users\marcos.hccurila\source\repos\AlturaMédia\AlturaMédia\bin\Debug\AlturaMédia.exe.config
+C:\Users\marcos.hccurila\source\repos\AlturaMédia\AlturaMédia\bin\Debug\AlturaMédia.exe
+C:\Users\marcos.hccurila\source\repos\AlturaMédia\AlturaMédia\bin\Debug\AlturaMédia.pdb
+C:\Users\marcos.hccurila\source\repos\AlturaMédia\AlturaMédia\obj\Debug\AlturaMédia.csproj.AssemblyReference.cache
+C:\Users\marcos.hccurila\source\repos\AlturaMédia\AlturaMédia\obj\Debug\AlturaMédia.FrmPrincipal.resources
+C:\Users\marcos.hccurila\source\repos\AlturaMédia\AlturaMédia\obj\Debug\AlturaMédia.Properties.Resources.resources
+C:\Users\marcos.hccurila\source\repos\AlturaMédia\AlturaMédia\obj\Debug\AlturaMédia.csproj.GenerateResource.cache
+C:\Users\marcos.hccurila\source\repos\AlturaMédia\AlturaMédia\obj\Debug\AlturaMédia.csproj.CoreCompileInputs.cache
+C:\Users\marcos.hccurila\source\repos\AlturaMédia\AlturaMédia\obj\Debug\AlturaMédia.exe
+C:\Users\marcos.hccurila\source\repos\AlturaMédia\AlturaMédia\obj\Debug\AlturaMédia.pdb

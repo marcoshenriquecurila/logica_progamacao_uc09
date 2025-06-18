@@ -1,0 +1,10 @@
+C:\Users\marcos.hccurila\source\repos\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.exe.config
+C:\Users\marcos.hccurila\source\repos\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.exe
+C:\Users\marcos.hccurila\source\repos\NomeCompleto\NomeCompleto\bin\Debug\NomeCompleto.pdb
+C:\Users\marcos.hccurila\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csproj.AssemblyReference.cache
+C:\Users\marcos.hccurila\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.FrmPrincipal.resources
+C:\Users\marcos.hccurila\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.Properties.Resources.resources
+C:\Users\marcos.hccurila\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csproj.GenerateResource.cache
+C:\Users\marcos.hccurila\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.csproj.CoreCompileInputs.cache
+C:\Users\marcos.hccurila\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.exe
+C:\Users\marcos.hccurila\source\repos\NomeCompleto\NomeCompleto\obj\Debug\NomeCompleto.pdb

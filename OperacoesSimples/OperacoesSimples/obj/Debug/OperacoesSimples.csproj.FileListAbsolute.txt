@@ -1,0 +1,10 @@
+C:\Users\marcos.hccurila\source\repos\OperacoesSimples\OperacoesSimples\bin\Debug\OperacoesSimples.exe.config
+C:\Users\marcos.hccurila\source\repos\OperacoesSimples\OperacoesSimples\bin\Debug\OperacoesSimples.exe
+C:\Users\marcos.hccurila\source\repos\OperacoesSimples\OperacoesSimples\bin\Debug\OperacoesSimples.pdb
+C:\Users\marcos.hccurila\source\repos\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.csproj.AssemblyReference.cache
+C:\Users\marcos.hccurila\source\repos\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.FrmPrincipal.resources
+C:\Users\marcos.hccurila\source\repos\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.Properties.Resources.resources
+C:\Users\marcos.hccurila\source\repos\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.csproj.GenerateResource.cache
+C:\Users\marcos.hccurila\source\repos\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.csproj.CoreCompileInputs.cache
+C:\Users\marcos.hccurila\source\repos\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.exe
+C:\Users\marcos.hccurila\source\repos\OperacoesSimples\OperacoesSimples\obj\Debug\OperacoesSimples.pdb
