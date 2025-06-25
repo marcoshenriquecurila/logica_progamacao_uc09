@@ -1,0 +1,10 @@
+C:\Users\marcos.hccurila\source\repos\MineCalcule\MineCalcule\bin\Debug\MineCalcule.exe.config
+C:\Users\marcos.hccurila\source\repos\MineCalcule\MineCalcule\bin\Debug\MineCalcule.exe
+C:\Users\marcos.hccurila\source\repos\MineCalcule\MineCalcule\bin\Debug\MineCalcule.pdb
+C:\Users\marcos.hccurila\source\repos\MineCalcule\MineCalcule\obj\Debug\MineCalcule.csproj.AssemblyReference.cache
+C:\Users\marcos.hccurila\source\repos\MineCalcule\MineCalcule\obj\Debug\MineCalcule.FrmPrincipal.resources
+C:\Users\marcos.hccurila\source\repos\MineCalcule\MineCalcule\obj\Debug\MineCalcule.Properties.Resources.resources
+C:\Users\marcos.hccurila\source\repos\MineCalcule\MineCalcule\obj\Debug\MineCalcule.csproj.GenerateResource.cache
+C:\Users\marcos.hccurila\source\repos\MineCalcule\MineCalcule\obj\Debug\MineCalcule.csproj.CoreCompileInputs.cache
+C:\Users\marcos.hccurila\source\repos\MineCalcule\MineCalcule\obj\Debug\MineCalcule.exe
+C:\Users\marcos.hccurila\source\repos\MineCalcule\MineCalcule\obj\Debug\MineCalcule.pdb

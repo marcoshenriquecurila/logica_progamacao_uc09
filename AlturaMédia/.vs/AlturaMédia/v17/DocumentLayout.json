@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{87412247-0F02-4786-868E-FA21B9988229}|AlturaM\u00E9dia\\AlturaM\u00E9dia.csproj|solutionrelative:alturam\u00E9dia\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87412247-0F02-4786-868E-FA21B9988229}|AlturaM\u00E9dia\\AlturaM\u00E9dia.csproj|c:\\users\\marcos.hccurila\\source\\repos\\alturam\u00E9dia\\alturam\u00E9dia\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{87412247-0F02-4786-868E-FA21B9988229}|AlturaM\u00E9dia\\AlturaM\u00E9dia.csproj|C:\\Users\\marcos.hccurila\\source\\repos\\AlturaM\u00E9dia\\alturam\u00E9dia\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87412247-0F02-4786-868E-FA21B9988229}|AlturaM\u00E9dia\\AlturaM\u00E9dia.csproj|solutionrelative:alturam\u00E9dia\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\marcos.hccurila\\source\\repos\\AlturaM\u00E9dia\\AlturaM\u00E9dia\\FrmPrincipal.cs [Design]",
               "RelativeToolTip": "AlturaM\u00E9dia\\FrmPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T19:44:19.772Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-18T19:44:19.772Z"
             }
           ]
         }

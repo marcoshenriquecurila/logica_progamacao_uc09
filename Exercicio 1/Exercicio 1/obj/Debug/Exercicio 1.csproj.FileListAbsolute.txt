@@ -1,0 +1,10 @@
+C:\Users\marcos.hccurila\source\repos\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe.config
+C:\Users\marcos.hccurila\source\repos\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe
+C:\Users\marcos.hccurila\source\repos\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.pdb
+C:\Users\marcos.hccurila\source\repos\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csproj.AssemblyReference.cache
+C:\Users\marcos.hccurila\source\repos\Exercicio 1\Exercicio 1\obj\Debug\Exercicio_1.FrmPrincipal.resources
+C:\Users\marcos.hccurila\source\repos\Exercicio 1\Exercicio 1\obj\Debug\Exercicio_1.Properties.Resources.resources
+C:\Users\marcos.hccurila\source\repos\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csproj.GenerateResource.cache
+C:\Users\marcos.hccurila\source\repos\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\marcos.hccurila\source\repos\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.exe
+C:\Users\marcos.hccurila\source\repos\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.pdb

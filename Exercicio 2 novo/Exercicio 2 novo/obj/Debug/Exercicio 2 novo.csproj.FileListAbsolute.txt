@@ -1,0 +1,10 @@
+C:\Users\marcos.hccurila\source\repos\Exercicio 2 novo\Exercicio 2 novo\bin\Debug\Exercicio 2 novo.exe.config
+C:\Users\marcos.hccurila\source\repos\Exercicio 2 novo\Exercicio 2 novo\bin\Debug\Exercicio 2 novo.exe
+C:\Users\marcos.hccurila\source\repos\Exercicio 2 novo\Exercicio 2 novo\bin\Debug\Exercicio 2 novo.pdb
+C:\Users\marcos.hccurila\source\repos\Exercicio 2 novo\Exercicio 2 novo\obj\Debug\Exercicio 2 novo.csproj.AssemblyReference.cache
+C:\Users\marcos.hccurila\source\repos\Exercicio 2 novo\Exercicio 2 novo\obj\Debug\Exercicio_2_novo.FrmPrincipal.resources
+C:\Users\marcos.hccurila\source\repos\Exercicio 2 novo\Exercicio 2 novo\obj\Debug\Exercicio_2_novo.Properties.Resources.resources
+C:\Users\marcos.hccurila\source\repos\Exercicio 2 novo\Exercicio 2 novo\obj\Debug\Exercicio 2 novo.csproj.GenerateResource.cache
+C:\Users\marcos.hccurila\source\repos\Exercicio 2 novo\Exercicio 2 novo\obj\Debug\Exercicio 2 novo.csproj.CoreCompileInputs.cache
+C:\Users\marcos.hccurila\source\repos\Exercicio 2 novo\Exercicio 2 novo\obj\Debug\Exercicio 2 novo.exe
+C:\Users\marcos.hccurila\source\repos\Exercicio 2 novo\Exercicio 2 novo\obj\Debug\Exercicio 2 novo.pdb

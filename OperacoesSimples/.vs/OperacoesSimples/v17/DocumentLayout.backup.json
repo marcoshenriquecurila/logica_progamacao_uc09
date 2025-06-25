@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\marcos.hccurila\\source\\repos\\OperacoesSimples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE3AD85E-3A30-4254-9649-C6431E2CBE61}|OperacoesSimples\\OperacoesSimples.csproj|C:\\Users\\marcos.hccurila\\source\\repos\\OperacoesSimples\\operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AE3AD85E-3A30-4254-9649-C6431E2CBE61}|OperacoesSimples\\OperacoesSimples.csproj|solutionrelative:operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE3AD85E-3A30-4254-9649-C6431E2CBE61}|OperacoesSimples\\OperacoesSimples.csproj|c:\\users\\marcos.hccurila\\source\\repos\\operacoessimples\\operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3AD85E-3A30-4254-9649-C6431E2CBE61}|OperacoesSimples\\OperacoesSimples.csproj|solutionrelative:operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3AD85E-3A30-4254-9649-C6431E2CBE61}|OperacoesSimples\\OperacoesSimples.csproj|C:\\Users\\marcos.hccurila\\source\\repos\\OperacoesSimples\\operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE3AD85E-3A30-4254-9649-C6431E2CBE61}|OperacoesSimples\\OperacoesSimples.csproj|solutionrelative:operacoessimples\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FrmPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\marcos.hccurila\\source\\repos\\OperacoesSimples\\OperacoesSimples\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "OperacoesSimples\\FrmPrincipal.cs",
@@ -35,15 +35,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\marcos.hccurila\\source\\repos\\OperacoesSimples\\OperacoesSimples\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "OperacoesSimples\\FrmPrincipal.cs",
               "ToolTip": "C:\\Users\\marcos.hccurila\\source\\repos\\OperacoesSimples\\OperacoesSimples\\FrmPrincipal.cs [Design]",
               "RelativeToolTip": "OperacoesSimples\\FrmPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T19:57:16.696Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-17T19:57:16.696Z"
             }
           ]
         }
